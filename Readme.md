@@ -2,6 +2,7 @@
 
 A dictionary model, developed in React, to search words and get its definitions, synomyms...
 
+[Click here to check the demo](https://geronde.github.io/Search-Words-Demo/#/)
 
 ## Getting Started
 
@@ -47,5 +48,3 @@ And run the application at http://localhost:9000
 
 And run the production build at http://localhost:7700
 
-#Demo
-[Click here to check the demo](https://geronde.github.io/Search-Words-Demo/#/)

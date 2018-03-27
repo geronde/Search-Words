@@ -48,5 +48,4 @@ And run the application at http://localhost:9000
 And run the production build at http://localhost:7700
 
 #Demo
-
-...In development
+[Click here to check the demo](https://geronde.github.io/Search-Words-Demo/#/)

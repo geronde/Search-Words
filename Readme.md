@@ -1,8 +1,7 @@
-# React BoilerPlate
+# Search Words
 
-A simple boilerplate that you can use as a template for your React apps. It's fast, easy to implement and modify.
+A dictionary model, developed in React, to search words and get its definitions, synomyms...
 
-It uses Webpack, devServer, babel, react hot loading and more to handle and compile modules into plain javascript and other static assets. It also supports Redux as a state manager.
 
 ## Getting Started
 
@@ -18,7 +17,7 @@ Download the repository
  
 
 ```
-   $git clone https://github.com/geronde/Personal-React-BoilerPlate.git
+   $git clone https://github.com/geronde/Search-Words.git
 
 ```
 
@@ -48,13 +47,6 @@ And run the application at http://localhost:9000
 
 And run the production build at http://localhost:7700
 
-You can always execute the production on client side using `npm run prod:client` or simply run the server side using `npm run prod:server`.
+#Demo
 
-### Linting/Prettify
-
-To lint and prettify code, run
-
-```
-npm run lint
-
-```
+...In development

@@ -2,7 +2,7 @@
 
 A dictionary model, developed in React, to search words and get its definitions, synomyms...
 
-[Click here to check the demo](https://geronde.github.io/Search-Words-Demo/#/)
+[Checkout the demo](https://geronde.github.io/Search-Words-Demo/#/)
 
 ## Getting Started
 
